@@ -1,1 +1,1 @@
-
+Triming of drone.
